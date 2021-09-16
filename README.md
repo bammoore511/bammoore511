@@ -1,5 +1,5 @@
-# Hi, I'm Brody Moore
+# Hey, I'm Brody
 
-<a href="https://www.linkedin.com/in/brody-moore-ab8926190/">
-  <img align="left" alt="Brody's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+I'm a Software Engineering student at Miami University in Oxford, Ohio. 
+
+  &nbsp; <br> [![Spotify](https://spotify-now-playing-orpin-six.vercel.app/api/spotify)](https://open.spotify.com/user/vangaurd6)
